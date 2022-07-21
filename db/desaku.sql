@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 21, 2022 at 06:32 AM
+-- Generation Time: Jul 21, 2022 at 10:45 AM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 7.4.29
 
@@ -88,8 +88,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`, `nama_desa`, `nama_kades`, `provinsi`, `kabupaten`, `kecamatan`, `logo_desa`) VALUES
-(1, 'test1', 'test1', 'sukabumi', 'sukabumi', 'sukabumi', 'sukabumi', 'sukabumi', NULL),
-(2, 'test2', 'test2', 'kuningan', 'kuningan', 'kuningan', 'kuningan', 'kuningan', NULL);
+(1, 'test1@mail.com', 'test1', 'sukabumi', 'sukabumi', 'sukabumi', 'sukabumi', 'sukabumi', NULL),
+(2, 'test2@mail.com', 'test2', 'kuningan', 'kuningan', 'kuningan', 'kuningan', 'kuningan', NULL);
 
 --
 -- Indexes for dumped tables

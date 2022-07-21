@@ -13,11 +13,11 @@
     </div>
     <div class="bg-white absolute top-0 w-[25%] px-[20px] min-h-screen pt-[10%]">
       <p class="text-center font-[700] text-[28px]">PENDAFTARAN</p>
-      <form action="" method="POST" class="mt-5" enctype="multipart/form-data">
-        <input type="email" placeholder="Email" name="email" id="email" class="w-full rounded-lg my-2 px-2 py-2 border border-[#2C3639]" />
-        <input type="password" placeholder="Password" name="password" id="password" class="w-full rounded-lg my-2 px-2 py-2 border border-[#2C3639]" />
+      <form action="" method="POST" class="mt-5">
+        <input type="email"  placeholder="Email" name="email" id="email" class="w-full rounded-lg my-2 px-2 py-2 border border-[#2C3639]" />
+        <input type="password"  placeholder="Password" name="password" id="password" class="w-full rounded-lg my-2 px-2 py-2 border border-[#2C3639]" />
         <input type="text" placeholder="Nama Desa" name="nama_desa" id="nama_desa" class="w-full rounded-lg my-2 px-2 py-2 border border-[#2C3639]" />
-        <input type="text" placeholder="Nama Kades" name="nama_kades" id="nama_kades" class="w-full rounded-lg my-2 px-2 py-2 border border-[#2C3639]" />
+        <input type="text"  placeholder="Nama Kades" name="nama_kades" id="nama_kades" class="w-full rounded-lg my-2 px-2 py-2 border border-[#2C3639]" />
         <input type="text" placeholder="Provinsi" name="provinsi" id="provinsi" class="w-full rounded-lg my-2 px-2 py-2 border border-[#2C3639]" />
         <input type="text" placeholder="Kabupaten" name="kabupaten" id="kabupaten" class="w-full rounded-lg my-2 px-2 py-2 border border-[#2C3639]" />
         <input type="text" placeholder="Kecamatan" name="kecamatan" id="kecamatan" class="w-full rounded-lg my-2 px-2 py-2 border border-[#2C3639]" />

@@ -54,11 +54,13 @@
     <td></td>
     <td></td>
     <td class="p-3 flex items-center space-x-3">
+    <a href="EditLaporanAdmin.php">
     <div class="bg-[#003865] rounded-full px-2 py-1">
     <span class="material-symbols-outlined cursor-pointer text-white text-center">
         edit
     </span>
     </div>
+    </a>
     </td>     
   </tr>
 
